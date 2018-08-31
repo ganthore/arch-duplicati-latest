@@ -21,7 +21,7 @@ sha256sums=('89b48463b25e99862e1c4eb23b6c9b0f582857714753e368b361aac7fd0b4f0b'
             '499eb63532bcad50b897c0874b723eebc6693816fcb9626532f367b5ff51da70'
             'b9389b399467f3e02aa8e76bb98f6efbca1166fbc4d0bdf939493f8403462959'
             'f6f903ca443935314afeab4cd2e46cf4bef7c5fb1e81c2d95f670f0993774ce5')
-arch=('i686' 'x86_64')
+arch=('i686' 'x86_64' 'armv7h')
 depends=('gtk-sharp-2' 'mono')
 
 package() {
